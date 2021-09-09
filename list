@@ -1,3 +1,0 @@
-hek         3360  0.0  0.4  44432 36628 pts/1    T    09:25   0:00 python manage.py runserver
-hek         3361  1.0  0.5 549256 45088 pts/1    Tl   09:25   1:44 /home/hek/django/venv/bin/python manage.py runserver
-hek         4627  0.0  0.0   6452  2288 pts/0    S+   12:13   0:00 grep server
